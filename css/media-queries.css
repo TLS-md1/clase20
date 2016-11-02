@@ -1,28 +1,59 @@
 /*Queries*/
 @media only screen and (max-width: 419px) {
-  /*body{background-color: green}*/
+  body{background-color: green}
+  .box{
+  	width: 100%;
+  }
 }
 @media only screen and (min-width: 420px) {
-  /*body{background-color: yellow}*/
+  body{background-color: yellow}
+  .box{
+  	width: 100%;
+  }
 }
 @media only screen and (min-width: 480px) {
-  /*body{background-color: red;}*/
+  body{background-color: red;}
+  .box{
+  	width: 100%;
+  }
 }
 @media only screen and (min-width: 600px) {
-  /*body{background-color: orange}*/
+  body{background-color: orange}
+  .box{
+  	width: 100%;
+  }
 }
 @media only screen and (min-width: 690px) {
-  /*body{background-color: purple}*/
+  body{background-color: purple}
+  h1{
+  	color: #ffffff;
+  	font-size: 100px;
+  }
+  .box{
+  	width: 33.3333333335%;
+  }
 }
 @media only screen and (min-width: 780px) {
-  /*body{background-color: blue}*/
+  body{background-color: blue}
+  h1{
+  	color: #ffffff;
+  	font-size: 80px;
+  }
 }
 @media only screen and (min-width: 810px) {
-  /*body{background-color: maroon}*/
+  body{background-color: maroon}
+  h1{
+  	color: #ffffff;
+  	font-size: 60px;
+  }
 }
 @media only screen and (min-width: 900px) {
-  /*body{background-color: skyblue}*/
+  body{background-color: skyblue}
 }
 @media only screen and (min-width: 1200px) {
-  /*body{background-color: peru}*/
+  body{background-color: peru}
+  h1{
+  	color: #ffffff;
+  	font-size: 50px;
+  }
 }
