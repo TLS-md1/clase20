@@ -1,0 +1,28 @@
+/*Queries*/
+@media only screen and (max-width: 419px) {
+  /*body{background-color: green}*/
+}
+@media only screen and (min-width: 420px) {
+  /*body{background-color: yellow}*/
+}
+@media only screen and (min-width: 480px) {
+  /*body{background-color: red;}*/
+}
+@media only screen and (min-width: 600px) {
+  /*body{background-color: orange}*/
+}
+@media only screen and (min-width: 690px) {
+  /*body{background-color: purple}*/
+}
+@media only screen and (min-width: 780px) {
+  /*body{background-color: blue}*/
+}
+@media only screen and (min-width: 810px) {
+  /*body{background-color: maroon}*/
+}
+@media only screen and (min-width: 900px) {
+  /*body{background-color: skyblue}*/
+}
+@media only screen and (min-width: 1200px) {
+  /*body{background-color: peru}*/
+}
